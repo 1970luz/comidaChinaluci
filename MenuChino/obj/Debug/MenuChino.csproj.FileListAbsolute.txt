@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\MenuChino\bin\Debug\MenuChino.exe.config
+C:\Users\PC\source\repos\MenuChino\bin\Debug\MenuChino.exe
+C:\Users\PC\source\repos\MenuChino\bin\Debug\MenuChino.pdb
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.Form1.resources
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.Properties.Resources.resources
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.exe
+C:\Users\PC\source\repos\MenuChino\obj\Debug\MenuChino.pdb
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\bin\Debug\MenuChino.exe.config
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\bin\Debug\MenuChino.exe
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\bin\Debug\MenuChino.pdb
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.csproj.AssemblyReference.cache
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.Form1.resources
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.Properties.Resources.resources
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.csproj.GenerateResource.cache
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.csproj.CoreCompileInputs.cache
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.exe
+C:\Users\GSMXMACTI\Desktop\MenuChino (2)\MenuChino\obj\Debug\MenuChino.pdb
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.csproj.AssemblyReference.cache
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.csproj.SuggestedBindingRedirects.cache
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.Form1.resources
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.Properties.Resources.resources
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.csproj.GenerateResource.cache
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.exe
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\obj\Debug\MenuChino.pdb
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\bin\Debug\MenuChino.exe.config
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\bin\Debug\MenuChino.exe
+D:\Users\PC\Desktop\tarea  de menu chino\MenuChinoLuci (1)\MenuChino\bin\Debug\MenuChino.pdb
